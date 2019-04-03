@@ -4,7 +4,7 @@ React 1-day hackathon project
 # General Assembly Project 1 : Simple front-end game
 
 ### Timeframe
-7 days
+2 days
 
 ## Technologies used
 
