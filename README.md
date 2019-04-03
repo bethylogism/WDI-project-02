@@ -43,9 +43,9 @@ We aimed to get the map on the page, followed by user location. Once this was se
 
 The next step was properly linking up the event data with the map. We made an Axios request using the user's location parameters in the request url. We set state with the response and handed this down to the map component (the main component). We then mapped over the latitude and logitude data from the events in that region and used these to create mapbox popup markers. We also used the imagery and short descriptions from Skiddle to make the popups more useable. We added the user's location to create a Google Maps route link inside each popup that. 
 
-Finally we styled the map, using SCSS variable to tag the event map markers on the page and a key to make it clear what each event is. We also created a loading screen as there is a lengthy wait for the geo-location data to load, which is required for the axios request. 
+Finally we styled the map, using SCSS variable to tag the event map markers on the page and a key to make it clear what each event is. We also created a loading screen as there is a lengthy wait for the geo-location data to load, which is required for the axios request. We also had time to make it mobile-friendly!
 
-
+![image](https://user-images.githubusercontent.com/44749113/55503348-5f6a1d00-5646-11e9-8851-a2f3b01bcc3b.png)
 
 
 
