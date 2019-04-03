@@ -13,6 +13,7 @@ React 1-day hackathon project
 * CSS3
 * React
 
+![image](https://user-images.githubusercontent.com/44749113/55503425-87f21700-5646-11e9-9c5e-44bfe69d5150.png)
 
 ## Installation
 
